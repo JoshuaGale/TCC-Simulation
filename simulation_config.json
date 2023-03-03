@@ -1,0 +1,340 @@
+{
+    "Buildings": [
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": 1,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                },
+                {
+                    "ConsumptionOrProduction": "consumption",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "daily",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 30,
+                    "name": "Day energy use plot",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 13.7,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.27109880183141,
+                146.8117881686176
+            ],
+            "name": "Reid Park"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": null,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                },
+                {
+                    "ConsumptionOrProduction": "consumption",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 30,
+                    "name": "Day energy use plot",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.258021402938184,
+                146.8142311336711
+            ],
+            "name": "103 Walker Street"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "consumption",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "daily",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 30,
+                    "name": "Day energy use plot",
+                    "units": "kw"
+                },
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": null,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.271722023271735,
+                146.8090933948317
+            ],
+            "name": "Civic Theater"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": null,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.265999767780787,
+                146.81645432551605
+            ],
+            "name": "Townsville Stadium"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": null,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.2589481731804,
+                146.81391482064842
+            ],
+            "name": "143 Walker Street"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": null,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.352890196184685,
+                146.7321134919796
+            ],
+            "name": "Riverway Arts Center"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": null,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.270915759095317,
+                146.7720545055519
+            ],
+            "name": "Dalrymple Road Depot"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": null,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.253610891778475,
+                146.81987121016985
+            ],
+            "name": "Tobruk Pool"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": null,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.29215040792723,
+                146.78224025620864
+            ],
+            "name": "Kokoda Pool"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": null,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.317660490367263,
+                146.73185375621551
+            ],
+            "name": "Riverway Stadium"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": null,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.25352272535685,
+                146.7034158080383
+            ],
+            "name": "Northern Beaches Leisure Centre"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": 1,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                },
+                {
+                    "ConsumptionOrProduction": "consumption",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "daily",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 30,
+                    "name": "Day energy use plot",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.27109880183141,
+                146.8117881686176
+            ],
+            "name": "cool new location"
+        },
+        {
+            "batteryModel": "Simple",
+            "buildingComponents": [
+                {
+                    "ConsumptionOrProduction": "production",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "monthly",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 60,
+                    "multiplicationFactor": 1,
+                    "name": "Solar Sample",
+                    "units": "kw"
+                },
+                {
+                    "ConsumptionOrProduction": "consumption",
+                    "agentType": "ImportAgent",
+                    "dataTimePeriod": "daily",
+                    "dataType": "energyProfile",
+                    "minuetsPerDataPoint": 30,
+                    "name": "Day energy use plot",
+                    "units": "kw"
+                }
+            ],
+            "energyStorageCapacityKWH": 0,
+            "energyStorageChargeAndDischargeRateKW": 5,
+            "location": [
+                -19.27109880183141,
+                146.8117881686176
+            ],
+            "name": "new location 2"
+        }
+    ],
+    "EnergyBuyPricePerKW": 0.2,
+    "EnergySellPricePerKW": 0.1,
+    "SimulationRuntime": 1440,
+    "StartDateTime": "2018-05-01T00:00:00",
+    "excelDirectory": "C:\\Users\\JoshuaGale\\OneDrive - GPOne Consulting\\TCC api\\TCC Work In\\Important Files\\DataSimulation\\TCC-Simulation\\excelFiles"
+}
